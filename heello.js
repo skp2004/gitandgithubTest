@@ -11,3 +11,6 @@
 function padLeft(padding, input) {
     throw new Error("Not implemented yet!");
 }
+
+// Edit by Harsh
+console.log("Edit by Harsh")
